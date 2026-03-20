@@ -98,6 +98,51 @@ npm run dev
 - API: `http://localhost:5000`
 - AI: `http://localhost:8000`
 
+## Deployment
+
+### Frontend on Vercel
+
+- Import the repository into Vercel
+- Set the root directory to `client`
+- Framework preset: `Vite`
+- Build command: `npm run build`
+- Output directory: `dist`
+- Add environment variable:
+
+```env
+VITE_API_URL=https://your-render-backend.onrender.com
+```
+
+### Backend on Render
+
+- Create a new Node Web Service from this repository
+- Set the root directory to `server`
+- Build command:
+
+```bash
+npm install
+```
+
+- Start command:
+
+```bash
+npm start
+```
+
+- Add environment variables:
+
+```env
+PORT=10000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_long_random_secret
+AI_SERVICE_URL=https://your-ai-service-url
+```
+
+After deployment:
+
+- Frontend URL will be your Vercel deployment link
+- Backend URL will be your Render deployment link
+
 ## Demo Flows
 
 1. Home page banners, trending, new arrivals, AI assistant
