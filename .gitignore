@@ -1,0 +1,14 @@
+node_modules
+dist
+.env
+.venv
+__pycache__
+*.pyc
+*.log
+server/public/products
+dataset/raw
+dataset/processed
+ai-service/uploads/*
+!ai-service/uploads/.gitkeep
+ai-service/models/*
+!ai-service/models/.gitkeep
