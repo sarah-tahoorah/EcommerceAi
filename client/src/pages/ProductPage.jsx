@@ -6,6 +6,7 @@ import { api } from "../api/client";
 import { useApp } from "../context/AppContext";
 import { ProductCard } from "../components/ProductCard";
 import { useFadeIn } from "../hooks/useFadeIn";
+import { resolveAssetUrl } from "../utils/assetUrl";
 
 const sizeChart = [
   { size: "S", chest: "34-36", waist: "28-30", hips: "34-36" },
@@ -253,7 +254,7 @@ export function ProductPage() {
     <div className="space-y-10">
       <section ref={productRef} className="grid gap-8 rounded-3xl card-soft p-6 md:grid-cols-2 fade-in">
         <div className="space-y-4">
-          <img src={item.imagePath} alt={item.name} className="w-full rounded-2xl object-cover aspect-[4/5]" />
+          <img src={resolveAssetUrl(item.imagePath)} alt={item.name} className="w-full rounded-2xl object-cover aspect-[4/5]" />
         </div>
         <div className="space-y-4">
           <h1 className="display-font text-4xl">{item.name}</h1>
