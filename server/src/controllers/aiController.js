@@ -276,6 +276,17 @@ function orderProducts(ids = [], products = []) {
   return ordered.length ? ordered : products;
 }
 
+function fallbackStyleProfile(preferredStyle = "", occasion = "") {
+  const style = (preferredStyle || "").toLowerCase();
+  const occ = (occasion || "").toLowerCase();
+
+  if (style === "traditional" && (occ === "wedding" || occ === "party")) return "Royal Traditional";
+  if (style === "formal" && occ === "office") return "Power Formal";
+  if (style === "streetwear") return "Urban Street";
+  if (style === "casual" && (occ === "daily wear" || occ === "office")) return "Elegant Casual";
+  return "Modern Minimal";
+}
+
 export async function imageSearch(req, res) {
   if (!req.file) return res.status(400).json({ message: "Image required" });
 
@@ -334,6 +345,16 @@ export async function styleQuiz(req, res) {
     clothingType = ""
   } = req.body || {};
 
+  const priceParts = budgetRange.split("-").map((n) => Number(n)).filter((n) => !Number.isNaN(n));
+  const query = {};
+  if (clothingType) query.category = clothingType;
+  if (favoriteColors.length) query.color = { $in: favoriteColors };
+  if (priceParts.length) {
+    query.price = {};
+    if (priceParts[0]) query.price.$gte = priceParts[0];
+    if (priceParts[1]) query.price.$lte = priceParts[1];
+  }
+
   try {
     const payload = {
       favorite_colors: favoriteColors,
@@ -344,23 +365,18 @@ export async function styleQuiz(req, res) {
     };
     const { data } = await axios.post(`${AI_URL}/style-quiz`, payload, { timeout: 10000 });
 
-    const priceParts = budgetRange.split("-").map((n) => Number(n)).filter((n) => !Number.isNaN(n));
-    const query = {};
-    if (clothingType) query.category = clothingType;
-    if (favoriteColors.length) query.color = { $in: favoriteColors };
-    if (priceParts.length) {
-      query.price = {};
-      if (priceParts[0]) query.price.$gte = priceParts[0];
-      if (priceParts[1]) query.price.$lte = priceParts[1];
-    }
-
     const recommended = await Product.find(query).sort({ rating: -1 }).limit(8);
     res.json({
       styleProfile: data.style_profile || data.styleProfile || "Modern Minimal",
       recommended
     });
   } catch (error) {
-    res.status(500).json({ message: "Style quiz failed" });
+    const recommended = await Product.find(query).sort({ rating: -1 }).limit(8);
+    res.json({
+      styleProfile: fallbackStyleProfile(preferredStyle, occasion),
+      recommended,
+      fallback: true
+    });
   }
 }
 
