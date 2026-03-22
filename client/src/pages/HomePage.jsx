@@ -87,6 +87,7 @@ export function HomePage() {
   const [quizStep, setQuizStep] = useState(0);
   const [quizLoading, setQuizLoading] = useState(false);
   const [quizResult, setQuizResult] = useState(null);
+  const [quizError, setQuizError] = useState("");
   const categoriesRef = useFadeIn();
   const trendingRef = useFadeIn();
   const arrivalsRef = useFadeIn();
@@ -113,9 +114,21 @@ export function HomePage() {
   const runQuiz = async () => {
     setQuizLoading(true);
     setQuizResult(null);
+    setQuizError("");
     try {
       const { data } = await api.post("/ai/style-quiz", quiz);
       setQuizResult(data);
+    } catch (error) {
+      const fallback = await api
+        .get("/products", { params: { category: quiz.clothingType, limit: 8, sort: "popularity" } })
+        .then((response) => response.data.items || [])
+        .catch(() => []);
+
+      setQuizResult({
+        styleProfile: quiz.preferredStyle || "Modern Minimal",
+        recommended: fallback
+      });
+      setQuizError("Live AI analysis was unavailable, so we showed the best matching picks instead.");
     } finally {
       setQuizLoading(false);
     }
@@ -484,6 +497,12 @@ export function HomePage() {
         {quizLoading && (
           <div className="mt-5 rounded-2xl border border-black/8 bg-white p-4 text-sm text-text-secondary">
             Analyzing your style preferences...
+          </div>
+        )}
+
+        {quizError && !quizLoading && (
+          <div className="mt-5 rounded-2xl border border-amber-200 bg-amber-50 p-4 text-sm text-amber-700">
+            {quizError}
           </div>
         )}
 
