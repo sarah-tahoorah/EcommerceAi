@@ -25,7 +25,7 @@ export function CartPage() {
       <h1 className="display-font text-3xl">Cart</h1>
       {cart.map((i) => (
         <div key={i._id + i.size} className="flex items-center gap-4 rounded-2xl card-soft p-4">
-          <img src={resolveAssetUrl(i.imagePath)} alt={i.name} className="h-24 w-20 rounded-lg object-cover" />
+          <img src={resolveAssetUrl(i.imagePath)} alt={i.name} loading="lazy" decoding="async" className="h-24 w-20 rounded-lg object-cover" />
           <div className="flex-1">
             <p className="font-semibold text-neutral-800">{i.name}</p>
             <p className="text-sm text-neutral-500">Size: {i.size}</p>

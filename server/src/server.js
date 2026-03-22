@@ -20,7 +20,13 @@ const publicDir = path.resolve(__dirname, "..", "public");
 app.use(cors());
 app.use(express.json({ limit: "25mb" }));
 app.use(morgan("dev"));
-app.use("/products", express.static(path.join(publicDir, "products")));
+app.use(
+  "/products",
+  express.static(path.join(publicDir, "products"), {
+    maxAge: "7d",
+    immutable: true
+  })
+);
 
 app.get("/api/health", (_, res) => res.json({ ok: true, service: "sellora-api" }));
 app.use("/api/products", productRoutes);

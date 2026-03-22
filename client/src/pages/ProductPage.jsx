@@ -254,7 +254,7 @@ export function ProductPage() {
     <div className="space-y-10">
       <section ref={productRef} className="grid gap-8 rounded-3xl card-soft p-6 md:grid-cols-2 fade-in">
         <div className="space-y-4">
-          <img src={resolveAssetUrl(item.imagePath)} alt={item.name} className="w-full rounded-2xl object-cover aspect-[4/5]" />
+          <img src={resolveAssetUrl(item.imagePath)} alt={item.name} decoding="async" className="w-full rounded-2xl object-cover aspect-[4/5]" />
         </div>
         <div className="space-y-4">
           <h1 className="display-font text-4xl">{item.name}</h1>

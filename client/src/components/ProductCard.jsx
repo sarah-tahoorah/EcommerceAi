@@ -20,7 +20,13 @@ export function ProductCard({ item, badge, badgeTone = "hot" }) {
   return (
     <article className={`group card-hover shimmer-card overflow-hidden rounded-[20px] border border-black/8 border-t-4 ${accent.border} ${accent.surface} shadow-[0_4px_12px_rgba(0,0,0,0.08)]`}>
       <Link to={`/product/${item._id}`} className="relative block aspect-[3/4] overflow-hidden">
-        <img src={resolveAssetUrl(item.imagePath)} alt={item.name} className="h-full w-full object-cover transition duration-500 group-hover:scale-105" />
+        <img
+          src={resolveAssetUrl(item.imagePath)}
+          alt={item.name}
+          loading="lazy"
+          decoding="async"
+          className="h-full w-full object-cover transition duration-500 group-hover:scale-105"
+        />
         {badge && (
           <span className={`absolute left-4 top-4 rounded-full px-3 py-1 text-[10px] font-bold uppercase tracking-[0.3em] text-text-primary ${badgeTone === "cool" ? "badge-cool" : "badge-hot"}`}>
             {badge}

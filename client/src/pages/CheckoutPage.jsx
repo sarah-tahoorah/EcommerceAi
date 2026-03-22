@@ -196,7 +196,7 @@ export function CheckoutPage() {
               )}
               {cart.map((item) => (
                 <div key={`${item._id}-${item.size}`} className="flex gap-3 rounded-[24px] border border-black/6 bg-[#fcfcfd] p-3 shadow-[0_10px_24px_rgba(17,24,39,0.04)]">
-                  <img src={resolveAssetUrl(item.imagePath)} alt={item.name} className="h-20 w-16 rounded-xl object-cover" />
+                  <img src={resolveAssetUrl(item.imagePath)} alt={item.name} loading="lazy" decoding="async" className="h-20 w-16 rounded-xl object-cover" />
                   <div className="flex-1">
                     <p className="font-semibold text-neutral-900">{item.name}</p>
                     <p className="mt-1 text-xs text-neutral-500">Size: {item.size}</p>
