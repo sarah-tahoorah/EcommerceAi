@@ -9,7 +9,7 @@ export const api = axios.create({
 });
 
 api.interceptors.request.use((config) => {
-  const token = localStorage.getItem("glamora_token");
+  const token = typeof window !== "undefined" ? localStorage.getItem("glamora_token") : null;
   if (token) config.headers.Authorization = `Bearer ${token}`;
   return config;
 });

@@ -2,6 +2,7 @@ import { useMemo } from "react";
 
 export function useVoiceSearch(onText) {
   return useMemo(() => {
+    if (typeof window === "undefined") return { supported: false, start: () => undefined };
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
     if (!SpeechRecognition) return { supported: false, start: () => undefined };
     const recognition = new SpeechRecognition();

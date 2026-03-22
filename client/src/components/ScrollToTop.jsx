@@ -7,6 +7,7 @@ export function ScrollToTop() {
   const didHandleInitialLoad = useRef(false);
 
   useEffect(() => {
+    if (typeof window === "undefined") return;
     if ("scrollRestoration" in window.history) {
       window.history.scrollRestoration = "manual";
     }
@@ -25,6 +26,7 @@ export function ScrollToTop() {
   }, [navigate, pathname]);
 
   useLayoutEffect(() => {
+    if (typeof window === "undefined") return;
     window.scrollTo({ top: 0, left: 0, behavior: "auto" });
   }, [pathname, search]);
 

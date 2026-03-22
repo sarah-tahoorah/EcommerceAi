@@ -7,8 +7,13 @@ export function AppProvider({ children }) {
   const [wishlist, setWishlist] = useState([]);
   const [dark, setDark] = useState(false);
   const [user, setUser] = useState(() => {
-    const raw = localStorage.getItem("glamora_user");
-    return raw ? JSON.parse(raw) : null;
+    if (typeof window === "undefined") return null;
+    try {
+      const raw = localStorage.getItem("glamora_user");
+      return raw ? JSON.parse(raw) : null;
+    } catch {
+      return null;
+    }
   });
 
   const addToCart = (product, qty = 1, size = "M") => {
