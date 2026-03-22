@@ -11,6 +11,8 @@ export function ProfilePage() {
   const [form, setForm] = useState({ name: "", email: "", password: "" });
   const [orders, setOrders] = useState([]);
   const [mode, setMode] = useState("login");
+  const [error, setError] = useState("");
+  const [loading, setLoading] = useState(false);
   const sectionRef = useFadeIn();
   const redirectTo = location.state?.redirectTo;
 
@@ -26,13 +28,26 @@ export function ProfilePage() {
 
   const submit = async (e) => {
     e.preventDefault();
-    const endpoint = mode === "login" ? "/auth/login" : "/auth/signup";
-    const { data } = await api.post(endpoint, form);
-    localStorage.setItem("glamora_token", data.token);
-    localStorage.setItem("glamora_user", JSON.stringify(data.user));
-    setUser(data.user);
-    if (redirectTo) {
-      navigate(redirectTo, { replace: true });
+    setError("");
+    setLoading(true);
+    try {
+      const payload =
+        mode === "login"
+          ? { email: form.email.trim(), password: form.password }
+          : { name: form.name.trim(), email: form.email.trim(), password: form.password };
+      const endpoint = mode === "login" ? "/auth/login" : "/auth/signup";
+      const { data } = await api.post(endpoint, payload);
+      localStorage.setItem("glamora_token", data.token);
+      localStorage.setItem("glamora_user", JSON.stringify(data.user));
+      setUser(data.user);
+      if (redirectTo) {
+        navigate(redirectTo, { replace: true });
+      }
+    } catch (err) {
+      const message = err?.response?.data?.message || "Unable to continue. Please check if the server is running.";
+      setError(message);
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -40,11 +55,47 @@ export function ProfilePage() {
     return (
       <form onSubmit={submit} className="mx-auto max-w-md space-y-3 rounded-2xl card-soft p-6 fade-in" ref={sectionRef}>
         <h1 className="display-font text-3xl">{mode === "login" ? "Login" : "Signup"}</h1>
-        {mode === "signup" && <input required placeholder="Name" onChange={(e) => setForm({ ...form, name: e.target.value })} className="glam-input w-full rounded-lg px-3 py-2" />}
-        <input required type="email" placeholder="Email" onChange={(e) => setForm({ ...form, email: e.target.value })} className="glam-input w-full rounded-lg px-3 py-2" />
-        <input required type="password" placeholder="Password" onChange={(e) => setForm({ ...form, password: e.target.value })} className="glam-input w-full rounded-lg px-3 py-2" />
-        <button className="w-full rounded-lg py-2 gold-button shimmer-button">{mode === "login" ? "Login" : "Create Account"}</button>
-        <button type="button" onClick={() => setMode(mode === "login" ? "signup" : "login")} className="text-sm text-neutral-600">
+        {mode === "signup" && (
+          <input
+            required
+            value={form.name}
+            placeholder="Name"
+            onChange={(e) => setForm({ ...form, name: e.target.value })}
+            className="glam-input w-full rounded-lg px-3 py-2"
+          />
+        )}
+        <input
+          required
+          type="email"
+          value={form.email}
+          placeholder="Email"
+          onChange={(e) => setForm({ ...form, email: e.target.value })}
+          className="glam-input w-full rounded-lg px-3 py-2"
+        />
+        <input
+          required
+          type="password"
+          value={form.password}
+          placeholder="Password"
+          onChange={(e) => setForm({ ...form, password: e.target.value })}
+          className="glam-input w-full rounded-lg px-3 py-2"
+        />
+        {error ? (
+          <div className="rounded-xl border border-rose-200 bg-rose-50 px-3 py-2 text-sm text-rose-600">
+            {error}
+          </div>
+        ) : null}
+        <button disabled={loading} className="w-full rounded-lg py-2 gold-button shimmer-button disabled:cursor-not-allowed disabled:opacity-70">
+          {loading ? "Please wait..." : mode === "login" ? "Login" : "Create Account"}
+        </button>
+        <button
+          type="button"
+          onClick={() => {
+            setMode(mode === "login" ? "signup" : "login");
+            setError("");
+          }}
+          className="text-sm text-neutral-600"
+        >
           {mode === "login" ? "New user? Signup" : "Already have account? Login"}
         </button>
       </form>

@@ -195,66 +195,6 @@ export function HomePage() {
         </div>
       </motion.section>
 
-      <section ref={categoriesRef} className="fade-in section-blue rounded-[24px] border border-black/5 p-6 pt-8 shadow-[0_4px_12px_rgba(0,0,0,0.08)] lg:p-8">
-        <div className="mb-6 flex items-end justify-between gap-4">
-          <div>
-            <p className="text-xs uppercase tracking-[0.3em] text-text-secondary">Browse Edits</p>
-            <h2 className="display-font mt-2 text-3xl text-text-primary">Categories</h2>
-          </div>
-          <Link to="/category" className="text-sm uppercase tracking-[0.22em] text-[#2563eb]">Explore All</Link>
-        </div>
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {categoryTiles.map((cat) => (
-            <Link
-              key={cat.name}
-              className="group card-hover relative min-h-[320px] overflow-hidden rounded-[20px] border border-black/8 bg-card shadow-[0_4px_12px_rgba(0,0,0,0.08)]"
-              to={`/category?category=${encodeURIComponent(cat.name)}`}
-            >
-              <img
-                src={cat.image}
-                alt={cat.name}
-                className="absolute inset-0 h-full w-full object-cover contrast-[0.96] brightness-[0.9] transition duration-500 group-hover:scale-[1.02]"
-                style={{ objectPosition: cat.position || "center" }}
-              />
-              <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(37,99,235,0.08)_0%,rgba(0,0,0,0.12)_42%,rgba(0,0,0,0.34)_100%)] transition duration-300 group-hover:bg-[linear-gradient(180deg,rgba(37,99,235,0.14)_0%,rgba(0,0,0,0.18)_42%,rgba(0,0,0,0.42)_100%)]" />
-              <div className="absolute inset-0 border border-white/10" />
-              <div className="relative z-10 flex h-full items-end p-6">
-                <div>
-                  <p className="text-[11px] uppercase tracking-[0.32em] text-white/72">Collection</p>
-                  <h3 className="display-font text-2xl text-white drop-shadow-[0_6px_18px_rgba(0,0,0,0.35)]">{cat.name}</h3>
-                </div>
-              </div>
-            </Link>
-          ))}
-        </div>
-      </section>
-
-      <section ref={trendingRef} className="fade-in px-1 py-2">
-        <div className="mb-6 flex items-end justify-between gap-4">
-          <div>
-            <p className="text-xs uppercase tracking-[0.3em] text-text-secondary">Hot Right Now</p>
-            <h2 className="display-font mt-2 text-3xl text-text-primary">Trending Fashion</h2>
-          </div>
-          <span className="rounded-full border border-black/8 bg-[#fdf2f8] px-4 py-2 text-xs uppercase tracking-[0.24em] text-[#ff2e63]">Trending</span>
-        </div>
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-          {trending.map((item) => <ProductCard key={item._id} item={item} badge="Trending" badgeTone="hot" />)}
-        </div>
-      </section>
-
-      <section ref={arrivalsRef} className="fade-in section-pink rounded-[24px] border border-black/5 p-6 pt-8 shadow-[0_4px_12px_rgba(0,0,0,0.08)] lg:p-8">
-        <div className="mb-6 flex items-end justify-between gap-4">
-          <div>
-            <p className="text-xs uppercase tracking-[0.3em] text-text-secondary">Fresh Drop</p>
-            <h2 className="display-font mt-2 text-3xl text-text-primary">New Arrivals</h2>
-          </div>
-          <span className="rounded-full border border-black/8 bg-[#eef2ff] px-4 py-2 text-xs uppercase tracking-[0.24em] text-[#2563eb]">New</span>
-        </div>
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-          {newArrivals.map((item) => <ProductCard key={item._id} item={item} badge="New" badgeTone="cool" />)}
-        </div>
-      </section>
-
       <section
         ref={aiFeatureRef}
         className="fade-in relative overflow-hidden rounded-[30px] border border-black/5 bg-[linear-gradient(135deg,#fff8fb_0%,#f4f0ff_36%,#edf6ff_72%,#f1fbf6_100%)] p-6 pt-8 shadow-[0_12px_28px_rgba(17,24,39,0.08)] lg:p-8"
@@ -327,6 +267,66 @@ export function HomePage() {
               </motion.article>
             );
           })}
+        </div>
+      </section>
+
+      <section ref={categoriesRef} className="fade-in section-blue rounded-[24px] border border-black/5 p-6 pt-8 shadow-[0_4px_12px_rgba(0,0,0,0.08)] lg:p-8">
+        <div className="mb-6 flex items-end justify-between gap-4">
+          <div>
+            <p className="text-xs uppercase tracking-[0.3em] text-text-secondary">Browse Edits</p>
+            <h2 className="display-font mt-2 text-3xl text-text-primary">Categories</h2>
+          </div>
+          <Link to="/category" className="text-sm uppercase tracking-[0.22em] text-[#2563eb]">Explore All</Link>
+        </div>
+        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {categoryTiles.map((cat) => (
+            <Link
+              key={cat.name}
+              className="group card-hover relative min-h-[320px] overflow-hidden rounded-[20px] border border-black/8 bg-card shadow-[0_4px_12px_rgba(0,0,0,0.08)]"
+              to={`/category?category=${encodeURIComponent(cat.name)}`}
+            >
+              <img
+                src={cat.image}
+                alt={cat.name}
+                className="absolute inset-0 h-full w-full object-cover contrast-[0.96] brightness-[0.9] transition duration-500 group-hover:scale-[1.02]"
+                style={{ objectPosition: cat.position || "center" }}
+              />
+              <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(37,99,235,0.08)_0%,rgba(0,0,0,0.12)_42%,rgba(0,0,0,0.34)_100%)] transition duration-300 group-hover:bg-[linear-gradient(180deg,rgba(37,99,235,0.14)_0%,rgba(0,0,0,0.18)_42%,rgba(0,0,0,0.42)_100%)]" />
+              <div className="absolute inset-0 border border-white/10" />
+              <div className="relative z-10 flex h-full items-end p-6">
+                <div>
+                  <p className="text-[11px] uppercase tracking-[0.32em] text-white/72">Collection</p>
+                  <h3 className="display-font text-2xl text-white drop-shadow-[0_6px_18px_rgba(0,0,0,0.35)]">{cat.name}</h3>
+                </div>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <section ref={trendingRef} className="fade-in px-1 py-2">
+        <div className="mb-6 flex items-end justify-between gap-4">
+          <div>
+            <p className="text-xs uppercase tracking-[0.3em] text-text-secondary">Hot Right Now</p>
+            <h2 className="display-font mt-2 text-3xl text-text-primary">Trending Fashion</h2>
+          </div>
+          <span className="rounded-full border border-black/8 bg-[#fdf2f8] px-4 py-2 text-xs uppercase tracking-[0.24em] text-[#ff2e63]">Trending</span>
+        </div>
+        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+          {trending.map((item) => <ProductCard key={item._id} item={item} badge="Trending" badgeTone="hot" />)}
+        </div>
+      </section>
+
+      <section ref={arrivalsRef} className="fade-in section-pink rounded-[24px] border border-black/5 p-6 pt-8 shadow-[0_4px_12px_rgba(0,0,0,0.08)] lg:p-8">
+        <div className="mb-6 flex items-end justify-between gap-4">
+          <div>
+            <p className="text-xs uppercase tracking-[0.3em] text-text-secondary">Fresh Drop</p>
+            <h2 className="display-font mt-2 text-3xl text-text-primary">New Arrivals</h2>
+          </div>
+          <span className="rounded-full border border-black/8 bg-[#eef2ff] px-4 py-2 text-xs uppercase tracking-[0.24em] text-[#2563eb]">New</span>
+        </div>
+        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+          {newArrivals.map((item) => <ProductCard key={item._id} item={item} badge="New" badgeTone="cool" />)}
         </div>
       </section>
 
