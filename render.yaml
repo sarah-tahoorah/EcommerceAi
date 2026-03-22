@@ -1,0 +1,31 @@
+services:
+  - type: web
+    name: glamora-api
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm run start -w server
+    healthCheckPath: /api/health
+    envVars:
+      - key: PORT
+        value: "10000"
+      - key: MONGO_URI
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: AI_SERVICE_HOSTPORT
+        fromService:
+          name: glamora-ai
+          type: web
+          property: hostport
+
+  - type: web
+    name: glamora-ai
+    runtime: python
+    plan: free
+    buildCommand: pip install -r ai-service/requirements.txt
+    startCommand: python -m uvicorn app.main:app --app-dir ai-service --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: "10000"

@@ -2,7 +2,7 @@ import fs from "fs/promises";
 import axios from "axios";
 import { Product } from "../models/Product.js";
 
-const AI_URL = process.env.AI_SERVICE_URL || "http://127.0.0.1:8000";
+const AI_URL = process.env.AI_SERVICE_URL || (process.env.AI_SERVICE_HOSTPORT ? `http://${process.env.AI_SERVICE_HOSTPORT}` : "http://127.0.0.1:8000");
 
 const categoryKeywords = [
   { key: "baby clothing", value: "Baby Clothing" },
