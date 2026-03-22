@@ -1,0 +1,3402 @@
+{
+    "generatedAt":  "2026-03-08T09:28:36.135Z",
+    "productCount":  131,
+    "products":  [
+                     {
+                         "name":  "Baby Clothing 1",
+                         "slug":  "baby-clothing-baby-puff-sleeve-bodysuit-houndstooth-print-suspender-skirt-1",
+                         "category":  "Baby Clothing",
+                         "description":  "Premium baby clothing designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  799,
+                         "oldPrice":  1299,
+                         "discountPercent":  38,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "Pink",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "0-6M",
+                                       "6-12M",
+                                       "12-24M"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "baby clothing",
+                                      "pink",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/baby_clothing/baby-puff-sleeve-bodysuit-houndstooth-print-suspender-skirt-1.jpg"
+                     },
+                     {
+                         "name":  "Baby Clothing 2",
+                         "slug":  "baby-clothing-download-66-2",
+                         "category":  "Baby Clothing",
+                         "description":  "Premium baby clothing designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  949,
+                         "oldPrice":  1449,
+                         "discountPercent":  35,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "Blue",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "0-6M",
+                                       "6-12M",
+                                       "12-24M"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "baby clothing",
+                                      "blue",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/baby_clothing/download-66-2.jpg"
+                     },
+                     {
+                         "name":  "Baby Clothing 3",
+                         "slug":  "baby-clothing-download-67-3",
+                         "category":  "Baby Clothing",
+                         "description":  "Premium baby clothing designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1099,
+                         "oldPrice":  1599,
+                         "discountPercent":  31,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Cream",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "0-6M",
+                                       "6-12M",
+                                       "12-24M"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "baby clothing",
+                                      "cream",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/baby_clothing/download-67-3.jpg"
+                     },
+                     {
+                         "name":  "Baby Clothing 4",
+                         "slug":  "baby-clothing-download-68-4",
+                         "category":  "Baby Clothing",
+                         "description":  "Premium baby clothing designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1249,
+                         "oldPrice":  1749,
+                         "discountPercent":  29,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "Pink",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "0-6M",
+                                       "6-12M",
+                                       "12-24M"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "baby clothing",
+                                      "pink",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/baby_clothing/download-68-4.jpg"
+                     },
+                     {
+                         "name":  "Baby Clothing 5",
+                         "slug":  "baby-clothing-download-69-5",
+                         "category":  "Baby Clothing",
+                         "description":  "Premium baby clothing designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1399,
+                         "oldPrice":  1899,
+                         "discountPercent":  26,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "Blue",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "0-6M",
+                                       "6-12M",
+                                       "12-24M"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "baby clothing",
+                                      "blue",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/baby_clothing/download-69-5.jpg"
+                     },
+                     {
+                         "name":  "Baby Clothing 6",
+                         "slug":  "baby-clothing-download-70-6",
+                         "category":  "Baby Clothing",
+                         "description":  "Premium baby clothing designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1549,
+                         "oldPrice":  2049,
+                         "discountPercent":  24,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Cream",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "0-6M",
+                                       "6-12M",
+                                       "12-24M"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "baby clothing",
+                                      "cream",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/baby_clothing/download-70-6.jpg"
+                     },
+                     {
+                         "name":  "Baby Clothing 7",
+                         "slug":  "baby-clothing-plush-bear-baby-romper-korean-style-winter-jumpsuit-7",
+                         "category":  "Baby Clothing",
+                         "description":  "Premium baby clothing designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  799,
+                         "oldPrice":  1299,
+                         "discountPercent":  38,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "Pink",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "0-6M",
+                                       "6-12M",
+                                       "12-24M"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "baby clothing",
+                                      "pink",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/baby_clothing/plush-bear-baby-romper-korean-style-winter-jumpsuit-7.jpg"
+                     },
+                     {
+                         "name":  "Baby Clothing 8",
+                         "slug":  "baby-clothing-unisex-long-sleeve-graphic-bodysuit-for-baby-size-6-12-m-8",
+                         "category":  "Baby Clothing",
+                         "description":  "Premium baby clothing designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  949,
+                         "oldPrice":  1449,
+                         "discountPercent":  35,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "Blue",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "0-6M",
+                                       "6-12M",
+                                       "12-24M"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "baby clothing",
+                                      "blue",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/baby_clothing/unisex-long-sleeve-graphic-bodysuit-for-baby-size-6-12-m-8.jpg"
+                     },
+                     {
+                         "name":  "Baby Clothing 9",
+                         "slug":  "baby-clothing-you-are-perfect-9",
+                         "category":  "Baby Clothing",
+                         "description":  "Premium baby clothing designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1099,
+                         "oldPrice":  1599,
+                         "discountPercent":  31,
+                         "rating":  4.6,
+                         "reviewCount":  108,
+                         "color":  "Cream",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "0-6M",
+                                       "6-12M",
+                                       "12-24M"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "baby clothing",
+                                      "cream",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/baby_clothing/you-are-perfect-9.jpg"
+                     },
+                     {
+                         "name":  "Baby Clothing 10",
+                         "slug":  "baby-clothing-aliexpress-1501-10",
+                         "category":  "Baby Clothing",
+                         "description":  "Premium baby clothing designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1249,
+                         "oldPrice":  1749,
+                         "discountPercent":  29,
+                         "rating":  4.7,
+                         "reviewCount":  119,
+                         "color":  "Pink",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "0-6M",
+                                       "6-12M",
+                                       "12-24M"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "baby clothing",
+                                      "pink",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/baby_clothing/aliexpress-1501-10.jpg"
+                     },
+                     {
+                         "name":  "Dresses 1",
+                         "slug":  "dresses-beautiful-design-1",
+                         "category":  "Dresses",
+                         "description":  "Premium dresses designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2299,
+                         "oldPrice":  2799,
+                         "discountPercent":  18,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "Black",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "dresses",
+                                      "black",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/dresses/beautiful-design-1.jpg"
+                     },
+                     {
+                         "name":  "Dresses 2",
+                         "slug":  "dresses-designer-straight-salwar-kameez-indian-pakistani-ethnic-wear-2",
+                         "category":  "Dresses",
+                         "description":  "Premium dresses designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2449,
+                         "oldPrice":  2949,
+                         "discountPercent":  17,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "Rose",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "dresses",
+                                      "rose",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/dresses/designer-straight-salwar-kameez-indian-pakistani-ethnic-wear-2.jpg"
+                     },
+                     {
+                         "name":  "Dresses 3",
+                         "slug":  "dresses-download-30-3",
+                         "category":  "Dresses",
+                         "description":  "Premium dresses designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2599,
+                         "oldPrice":  3099,
+                         "discountPercent":  16,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Emerald",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "dresses",
+                                      "emerald",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/dresses/download-30-3.jpg"
+                     },
+                     {
+                         "name":  "Dresses 4",
+                         "slug":  "dresses-download-31-4",
+                         "category":  "Dresses",
+                         "description":  "Premium dresses designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2749,
+                         "oldPrice":  3249,
+                         "discountPercent":  15,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "Black",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "dresses",
+                                      "black",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/dresses/download-31-4.jpg"
+                     },
+                     {
+                         "name":  "Dresses 5",
+                         "slug":  "dresses-download-32-5",
+                         "category":  "Dresses",
+                         "description":  "Premium dresses designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2899,
+                         "oldPrice":  3399,
+                         "discountPercent":  15,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "Rose",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "dresses",
+                                      "rose",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/dresses/download-32-5.jpg"
+                     },
+                     {
+                         "name":  "Dresses 6",
+                         "slug":  "dresses-download-33-6",
+                         "category":  "Dresses",
+                         "description":  "Premium dresses designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  3049,
+                         "oldPrice":  3549,
+                         "discountPercent":  14,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Emerald",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "dresses",
+                                      "emerald",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/dresses/download-33-6.jpg"
+                     },
+                     {
+                         "name":  "Dresses 7",
+                         "slug":  "dresses-download-34-7",
+                         "category":  "Dresses",
+                         "description":  "Premium dresses designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2299,
+                         "oldPrice":  2799,
+                         "discountPercent":  18,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "Black",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "dresses",
+                                      "black",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/dresses/download-34-7.jpg"
+                     },
+                     {
+                         "name":  "Dresses 8",
+                         "slug":  "dresses-download-35-8",
+                         "category":  "Dresses",
+                         "description":  "Premium dresses designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2449,
+                         "oldPrice":  2949,
+                         "discountPercent":  17,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "Rose",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "dresses",
+                                      "rose",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/dresses/download-35-8.jpg"
+                     },
+                     {
+                         "name":  "Dresses 9",
+                         "slug":  "dresses-how-to-build-dressing-sense-in-2026-men-s-complete-style-guide-9",
+                         "category":  "Dresses",
+                         "description":  "Premium dresses designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2599,
+                         "oldPrice":  3099,
+                         "discountPercent":  16,
+                         "rating":  4.6,
+                         "reviewCount":  108,
+                         "color":  "Emerald",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "dresses",
+                                      "emerald",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/dresses/how-to-build-dressing-sense-in-2026-men-s-complete-style-guide-9.jpg"
+                     },
+                     {
+                         "name":  "Dresses 10",
+                         "slug":  "dresses-walima-outfit-inspo-10",
+                         "category":  "Dresses",
+                         "description":  "Premium dresses designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2749,
+                         "oldPrice":  3249,
+                         "discountPercent":  15,
+                         "rating":  4.7,
+                         "reviewCount":  119,
+                         "color":  "Black",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "dresses",
+                                      "black",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/dresses/walima-outfit-inspo-10.jpg"
+                     },
+                     {
+                         "name":  "Dresses 11",
+                         "slug":  "dresses-white-and-maroon-combo-11",
+                         "category":  "Dresses",
+                         "description":  "Premium dresses designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2899,
+                         "oldPrice":  3399,
+                         "discountPercent":  15,
+                         "rating":  4.8,
+                         "reviewCount":  130,
+                         "color":  "Rose",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "dresses",
+                                      "rose",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/dresses/white-and-maroon-combo-11.jpg"
+                     },
+                     {
+                         "name":  "Handbags 1",
+                         "slug":  "handbags-denim-star-handbag-1",
+                         "category":  "Handbags",
+                         "description":  "Premium handbags designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2199,
+                         "oldPrice":  2699,
+                         "discountPercent":  19,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "Black",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "handbags",
+                                      "black",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/handbags/denim-star-handbag-1.jpg"
+                     },
+                     {
+                         "name":  "Handbags 2",
+                         "slug":  "handbags-did-you-know-there-are-sooo-many-ways-to-style-your-flower-claw-clips-swipe-to-see-some-of-our-faves-from-hair-to-bags-to-even-your-car-steering-yep-tell-us-how-you-d-rock-yours-in-the-comments-av-2",
+                         "category":  "Handbags",
+                         "description":  "Premium handbags designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2349,
+                         "oldPrice":  2849,
+                         "discountPercent":  18,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "Tan",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "handbags",
+                                      "tan",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/handbags/handbags-flower-claw-clips-2.jpg"
+                     },
+                     {
+                         "name":  "Handbags 3",
+                         "slug":  "handbags-download-50-3",
+                         "category":  "Handbags",
+                         "description":  "Premium handbags designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2499,
+                         "oldPrice":  2999,
+                         "discountPercent":  17,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Maroon",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "handbags",
+                                      "maroon",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/handbags/download-50-3.jpg"
+                     },
+                     {
+                         "name":  "Handbags 4",
+                         "slug":  "handbags-download-51-4",
+                         "category":  "Handbags",
+                         "description":  "Premium handbags designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2649,
+                         "oldPrice":  3149,
+                         "discountPercent":  16,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "Black",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "handbags",
+                                      "black",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/handbags/download-51-4.jpg"
+                     },
+                     {
+                         "name":  "Handbags 5",
+                         "slug":  "handbags-download-52-5",
+                         "category":  "Handbags",
+                         "description":  "Premium handbags designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2799,
+                         "oldPrice":  3299,
+                         "discountPercent":  15,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "Tan",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "handbags",
+                                      "tan",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/handbags/download-52-5.jpg"
+                     },
+                     {
+                         "name":  "Handbags 6",
+                         "slug":  "handbags-download-53-6",
+                         "category":  "Handbags",
+                         "description":  "Premium handbags designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2949,
+                         "oldPrice":  3449,
+                         "discountPercent":  14,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Maroon",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "handbags",
+                                      "maroon",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/handbags/download-53-6.jpg"
+                     },
+                     {
+                         "name":  "Handbags 7",
+                         "slug":  "handbags-download-54-7",
+                         "category":  "Handbags",
+                         "description":  "Premium handbags designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2199,
+                         "oldPrice":  2699,
+                         "discountPercent":  19,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "Black",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "handbags",
+                                      "black",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/handbags/download-54-7.jpg"
+                     },
+                     {
+                         "name":  "Handbags 8",
+                         "slug":  "handbags-download-55-8",
+                         "category":  "Handbags",
+                         "description":  "Premium handbags designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2349,
+                         "oldPrice":  2849,
+                         "discountPercent":  18,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "Tan",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "handbags",
+                                      "tan",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/handbags/download-55-8.jpg"
+                     },
+                     {
+                         "name":  "Handbags 9",
+                         "slug":  "handbags-minimalist-cream-tan-tote-bag-effortless-everyday-style-9",
+                         "category":  "Handbags",
+                         "description":  "Premium handbags designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2499,
+                         "oldPrice":  2999,
+                         "discountPercent":  17,
+                         "rating":  4.6,
+                         "reviewCount":  108,
+                         "color":  "Maroon",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "handbags",
+                                      "maroon",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/handbags/minimalist-cream-tan-tote-bag-effortless-everyday-style-9.jpg"
+                     },
+                     {
+                         "name":  "Handbags 10",
+                         "slug":  "handbags-10",
+                         "category":  "Handbags",
+                         "description":  "Premium handbags designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2649,
+                         "oldPrice":  3149,
+                         "discountPercent":  16,
+                         "rating":  4.7,
+                         "reviewCount":  119,
+                         "color":  "Black",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "handbags",
+                                      "black",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/handbags/-10.jpg"
+                     },
+                     {
+                         "name":  "Heels 1",
+                         "slug":  "heels-bridal-shoes-you-ll-totally-love-1",
+                         "category":  "Heels",
+                         "description":  "Premium heels designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2499,
+                         "oldPrice":  2999,
+                         "discountPercent":  17,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "Black",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "heels",
+                                      "black",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/heels/bridal-shoes-you-ll-totally-love-1.jpg"
+                     },
+                     {
+                         "name":  "Heels 2",
+                         "slug":  "heels-download-56-2",
+                         "category":  "Heels",
+                         "description":  "Premium heels designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2649,
+                         "oldPrice":  3149,
+                         "discountPercent":  16,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "Gold",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "heels",
+                                      "gold",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/heels/download-56-2.jpg"
+                     },
+                     {
+                         "name":  "Heels 3",
+                         "slug":  "heels-download-57-3",
+                         "category":  "Heels",
+                         "description":  "Premium heels designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2799,
+                         "oldPrice":  3299,
+                         "discountPercent":  15,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Beige",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "heels",
+                                      "beige",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/heels/download-57-3.jpg"
+                     },
+                     {
+                         "name":  "Heels 4",
+                         "slug":  "heels-download-58-4",
+                         "category":  "Heels",
+                         "description":  "Premium heels designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2949,
+                         "oldPrice":  3449,
+                         "discountPercent":  14,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "Black",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "heels",
+                                      "black",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/heels/download-58-4.jpg"
+                     },
+                     {
+                         "name":  "Heels 5",
+                         "slug":  "heels-download-59-5",
+                         "category":  "Heels",
+                         "description":  "Premium heels designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  3099,
+                         "oldPrice":  3599,
+                         "discountPercent":  14,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "Gold",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "heels",
+                                      "gold",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/heels/download-59-5.jpg"
+                     },
+                     {
+                         "name":  "Heels 6",
+                         "slug":  "heels-download-60-6",
+                         "category":  "Heels",
+                         "description":  "Premium heels designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  3249,
+                         "oldPrice":  3749,
+                         "discountPercent":  13,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Beige",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "heels",
+                                      "beige",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/heels/download-60-6.jpg"
+                     },
+                     {
+                         "name":  "Heels 7",
+                         "slug":  "heels-herbhandler-cc-7",
+                         "category":  "Heels",
+                         "description":  "Premium heels designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2499,
+                         "oldPrice":  2999,
+                         "discountPercent":  17,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "Black",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "heels",
+                                      "black",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/heels/herbhandler-cc-7.jpg"
+                     },
+                     {
+                         "name":  "Heels 8",
+                         "slug":  "heels-high-heels-from-eoooh-8",
+                         "category":  "Heels",
+                         "description":  "Premium heels designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2649,
+                         "oldPrice":  3149,
+                         "discountPercent":  16,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "Gold",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "heels",
+                                      "gold",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/heels/high-heels-from-eoooh-8.jpg"
+                     },
+                     {
+                         "name":  "Heels 9",
+                         "slug":  "heels-https-pin-it-6lmd24hj1-9",
+                         "category":  "Heels",
+                         "description":  "Premium heels designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2799,
+                         "oldPrice":  3299,
+                         "discountPercent":  15,
+                         "rating":  4.6,
+                         "reviewCount":  108,
+                         "color":  "Beige",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "heels",
+                                      "beige",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/heels/https-pin-it-6lmd24hj1-9.jpg"
+                     },
+                     {
+                         "name":  "Heels 10",
+                         "slug":  "heels-i-l-u-v-e-10",
+                         "category":  "Heels",
+                         "description":  "Premium heels designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2949,
+                         "oldPrice":  3449,
+                         "discountPercent":  14,
+                         "rating":  4.7,
+                         "reviewCount":  119,
+                         "color":  "Black",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "heels",
+                                      "black",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/heels/i-l-u-v-e-10.jpg"
+                     },
+                     {
+                         "name":  "Heels 11",
+                         "slug":  "heels-ysl-heels-11",
+                         "category":  "Heels",
+                         "description":  "Premium heels designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  3099,
+                         "oldPrice":  3599,
+                         "discountPercent":  14,
+                         "rating":  4.8,
+                         "reviewCount":  130,
+                         "color":  "Gold",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "heels",
+                                      "gold",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/heels/ysl-heels-11.jpg"
+                     },
+                     {
+                         "name":  "Jeans 1",
+                         "slug":  "jeans-freakins-polyester-korean-pant-1",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1899,
+                         "oldPrice":  2399,
+                         "discountPercent":  21,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "Indigo",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "jeans",
+                                      "indigo",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/jeans/freakins-polyester-korean-pant-1.jpg"
+                     },
+                     {
+                         "name":  "Jeans 2",
+                         "slug":  "jeans-cider-baggy-jeans-for-women-low-waisted-wide-straight-leg-bow-jeans-denim-pants-2",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2049,
+                         "oldPrice":  2549,
+                         "discountPercent":  20,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "Black",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "jeans",
+                                      "black",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/jeans/cider-baggy-jeans-for-women-low-waisted-wide-straight-leg-bow-jeans-denim-pants-2.jpg"
+                     },
+                     {
+                         "name":  "Jeans 3",
+                         "slug":  "jeans-cute-cargo-jeans-for-women-3",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2199,
+                         "oldPrice":  2699,
+                         "discountPercent":  19,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Grey",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "jeans",
+                                      "grey",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/jeans/cute-cargo-jeans-for-women-3.jpg"
+                     },
+                     {
+                         "name":  "Jeans 4",
+                         "slug":  "jeans-download-23-4",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2349,
+                         "oldPrice":  2849,
+                         "discountPercent":  18,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "Indigo",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "jeans",
+                                      "indigo",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/jeans/download-23-4.jpg"
+                     },
+                     {
+                         "name":  "Jeans 5",
+                         "slug":  "jeans-download-24-5",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2499,
+                         "oldPrice":  2999,
+                         "discountPercent":  17,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "Black",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "jeans",
+                                      "black",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/jeans/download-24-5.jpg"
+                     },
+                     {
+                         "name":  "Jeans 6",
+                         "slug":  "jeans-download-25-6",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2649,
+                         "oldPrice":  3149,
+                         "discountPercent":  16,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Grey",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "jeans",
+                                      "grey",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/jeans/download-25-6.jpg"
+                     },
+                     {
+                         "name":  "Jeans 7",
+                         "slug":  "jeans-download-26-7",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1899,
+                         "oldPrice":  2399,
+                         "discountPercent":  21,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "Indigo",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "jeans",
+                                      "indigo",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/jeans/download-26-7.jpg"
+                     },
+                     {
+                         "name":  "Jeans 8",
+                         "slug":  "jeans-download-27-8",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2049,
+                         "oldPrice":  2549,
+                         "discountPercent":  20,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "Black",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "jeans",
+                                      "black",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/jeans/download-27-8.jpg"
+                     },
+                     {
+                         "name":  "Jeans 9",
+                         "slug":  "jeans-fav-9",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2199,
+                         "oldPrice":  2699,
+                         "discountPercent":  19,
+                         "rating":  4.6,
+                         "reviewCount":  108,
+                         "color":  "Grey",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "jeans",
+                                      "grey",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/jeans/fav-9.jpg"
+                     },
+                     {
+                         "name":  "Jeans 10",
+                         "slug":  "jeans-kkboxly-loose-cotton-blend-men-s-solid-wide-leg-pants-men-s-casual-denim-pants-all-seasons-white-xs-30-10",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2349,
+                         "oldPrice":  2849,
+                         "discountPercent":  18,
+                         "rating":  4.7,
+                         "reviewCount":  119,
+                         "color":  "Indigo",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "jeans",
+                                      "indigo",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/jeans/kkboxly-loose-cotton-blend-men-s-solid-wide-leg-pants-men-s-casual-denim-pants-all-seasons-white-xs-30-10.jpg"
+                     },
+                     {
+                         "name":  "Jeans 11",
+                         "slug":  "jeans-manfinity-homme-men-slant-pocket-loose-fit-jeans-plain-long-washed-baggy-cargo-jeans-light-jeans-for-husband-boyfriend-gifts-11",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2499,
+                         "oldPrice":  2999,
+                         "discountPercent":  17,
+                         "rating":  4.8,
+                         "reviewCount":  130,
+                         "color":  "Black",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "jeans",
+                                      "black",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/jeans/manfinity-homme-men-slant-pocket-loose-fit-jeans-plain-long-washed-baggy-cargo-jeans-light-jeans-for-husband-boyfriend-gifts-11.jpg"
+                     },
+                     {
+                         "name":  "Jeans 12",
+                         "slug":  "jeans-men-s-casual-washed-straight-leg-jeans-men-baggy-jeans-12",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2649,
+                         "oldPrice":  3149,
+                         "discountPercent":  16,
+                         "rating":  4.9,
+                         "reviewCount":  21,
+                         "color":  "Grey",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "jeans",
+                                      "grey",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/jeans/men-s-casual-washed-straight-leg-jeans-men-baggy-jeans-12.jpg"
+                     },
+                     {
+                         "name":  "Jeans 13",
+                         "slug":  "jeans-straight-stretch-denim-classic-style-youth-men-s-business-casual-jeans-trousers-dark-blue-32-13",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1899,
+                         "oldPrice":  2399,
+                         "discountPercent":  21,
+                         "rating":  3.8,
+                         "reviewCount":  32,
+                         "color":  "Indigo",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "jeans",
+                                      "indigo",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/jeans/straight-stretch-denim-classic-style-youth-men-s-business-casual-jeans-trousers-dark-blue-32-13.jpg"
+                     },
+                     {
+                         "name":  "Jeans 14",
+                         "slug":  "jeans-14",
+                         "category":  "Jeans",
+                         "description":  "Premium jeans designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2049,
+                         "oldPrice":  2549,
+                         "discountPercent":  20,
+                         "rating":  3.9,
+                         "reviewCount":  43,
+                         "color":  "Black",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "jeans",
+                                      "black",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/jeans/-14.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 1",
+                         "slug":  "kids-wear-costume-deux-pi-ces-compos-d-un-manteau-manches-longues-et-d-un-pantalon-style-coll-ge-japonais-cor-en-kaki-convient-aux-gar-ons-pr-adolescents-adapt-aux-activit-s-sportives-pour-la-saison-d-automne-et-d-hi-1",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1099,
+                         "oldPrice":  1599,
+                         "discountPercent":  31,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "Yellow",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "kids wear",
+                                      "yellow",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/kids_wear/kidswear-japanese-style-set-1.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 2",
+                         "slug":  "kids-wear-download-61-2",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1249,
+                         "oldPrice":  1749,
+                         "discountPercent":  29,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "Blue",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "kids wear",
+                                      "blue",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/kids_wear/download-61-2.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 3",
+                         "slug":  "kids-wear-download-62-3",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1399,
+                         "oldPrice":  1899,
+                         "discountPercent":  26,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Green",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "kids wear",
+                                      "green",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/kids_wear/download-62-3.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 4",
+                         "slug":  "kids-wear-download-63-4",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1549,
+                         "oldPrice":  2049,
+                         "discountPercent":  24,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "Yellow",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "kids wear",
+                                      "yellow",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/kids_wear/download-63-4.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 5",
+                         "slug":  "kids-wear-download-64-5",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1699,
+                         "oldPrice":  2199,
+                         "discountPercent":  23,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "Blue",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "kids wear",
+                                      "blue",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/kids_wear/download-64-5.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 6",
+                         "slug":  "kids-wear-download-65-6",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1849,
+                         "oldPrice":  2349,
+                         "discountPercent":  21,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Green",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "kids wear",
+                                      "green",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/kids_wear/download-65-6.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 7",
+                         "slug":  "kids-wear-in-stock-ship-in-48-hours-black-velvet-flower-girl-dress-7",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1099,
+                         "oldPrice":  1599,
+                         "discountPercent":  31,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "Yellow",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "kids wear",
+                                      "yellow",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/kids_wear/in-stock-ship-in-48-hours-black-velvet-flower-girl-dress-7.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 8",
+                         "slug":  "kids-wear-mqtime-autumn-baby-boys-girls-solid-color-corduroy-coat-korean-japan-style-children-clothing-baby-boy-girl-long-sleeve-jacket-kids-coat-brown-6t-8",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1249,
+                         "oldPrice":  1749,
+                         "discountPercent":  29,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "Blue",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "kids wear",
+                                      "blue",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/kids_wear/mqtime-autumn-baby-boys-girls-solid-color-corduroy-coat-korean-japan-style-children-clothing-baby-boy-girl-long-sleeve-jacket-kids-coat-brown-6t-8.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 9",
+                         "slug":  "kids-wear-shein-9",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1399,
+                         "oldPrice":  1899,
+                         "discountPercent":  26,
+                         "rating":  4.6,
+                         "reviewCount":  108,
+                         "color":  "Green",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "kids wear",
+                                      "green",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/kids_wear/shein-9.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 10",
+                         "slug":  "kids-wear-tween-boy-s-striped-round-neck-short-sleeve-t-shirt-and-shorts-set-korean-style-10",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1549,
+                         "oldPrice":  2049,
+                         "discountPercent":  24,
+                         "rating":  4.7,
+                         "reviewCount":  119,
+                         "color":  "Yellow",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "kids wear",
+                                      "yellow",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/kids_wear/tween-boy-s-striped-round-neck-short-sleeve-t-shirt-and-shorts-set-korean-style-10.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 11",
+                         "slug":  "kids-wear-tween-girl-sequin-mesh-splice-off-shoulder-mermaid-girl-party-dress-suitable-for-birthday-party-wedding-prom-festival-occasions-11",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1699,
+                         "oldPrice":  2199,
+                         "discountPercent":  23,
+                         "rating":  4.8,
+                         "reviewCount":  130,
+                         "color":  "Blue",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "kids wear",
+                                      "blue",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/kids_wear/tween-girl-sequin-mesh-splice-off-shoulder-mermaid-girl-party-dress-suitable-for-birthday-party-wedding-prom-festival-occasions-11.jpg"
+                     },
+                     {
+                         "name":  "Kids Wear 12",
+                         "slug":  "kids-wear-royal-maroon-kids-sharara-look-festive-wedding-outfit-inspiration-2025-12",
+                         "category":  "Kids Wear",
+                         "description":  "Premium kids wear designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1849,
+                         "oldPrice":  2349,
+                         "discountPercent":  21,
+                         "rating":  4.9,
+                         "reviewCount":  21,
+                         "color":  "Green",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "2Y",
+                                       "4Y",
+                                       "6Y",
+                                       "8Y"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "kids wear",
+                                      "green",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/kids_wear/royal-maroon-kids-sharara-look-festive-wedding-outfit-inspiration-2025-12.jpg"
+                     },
+                     {
+                         "name":  "Kurti 1",
+                         "slug":  "kurti-5-beautiful-printed-kurti-designs-to-add-comfort-1",
+                         "category":  "Kurti",
+                         "description":  "Premium kurti designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1699,
+                         "oldPrice":  2199,
+                         "discountPercent":  23,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "Mustard",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "kurti",
+                                      "mustard",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/kurti/5-beautiful-printed-kurti-designs-to-add-comfort-1.jpg"
+                     },
+                     {
+                         "name":  "Kurti 2",
+                         "slug":  "kurti-download-42-2",
+                         "category":  "Kurti",
+                         "description":  "Premium kurti designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1849,
+                         "oldPrice":  2349,
+                         "discountPercent":  21,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "Maroon",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "kurti",
+                                      "maroon",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/kurti/download-42-2.jpg"
+                     },
+                     {
+                         "name":  "Kurti 3",
+                         "slug":  "kurti-download-43-3",
+                         "category":  "Kurti",
+                         "description":  "Premium kurti designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1999,
+                         "oldPrice":  2499,
+                         "discountPercent":  20,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Teal",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "kurti",
+                                      "teal",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/kurti/download-43-3.jpg"
+                     },
+                     {
+                         "name":  "Kurti 4",
+                         "slug":  "kurti-download-44-4",
+                         "category":  "Kurti",
+                         "description":  "Premium kurti designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2149,
+                         "oldPrice":  2649,
+                         "discountPercent":  19,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "Mustard",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "kurti",
+                                      "mustard",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/kurti/download-44-4.jpg"
+                     },
+                     {
+                         "name":  "Kurti 5",
+                         "slug":  "kurti-download-45-5",
+                         "category":  "Kurti",
+                         "description":  "Premium kurti designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2299,
+                         "oldPrice":  2799,
+                         "discountPercent":  18,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "Maroon",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "kurti",
+                                      "maroon",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/kurti/download-45-5.jpg"
+                     },
+                     {
+                         "name":  "Kurti 6",
+                         "slug":  "kurti-download-46-6",
+                         "category":  "Kurti",
+                         "description":  "Premium kurti designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2449,
+                         "oldPrice":  2949,
+                         "discountPercent":  17,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Teal",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "kurti",
+                                      "teal",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/kurti/download-46-6.jpg"
+                     },
+                     {
+                         "name":  "Kurti 7",
+                         "slug":  "kurti-download-47-7",
+                         "category":  "Kurti",
+                         "description":  "Premium kurti designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1699,
+                         "oldPrice":  2199,
+                         "discountPercent":  23,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "Mustard",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "kurti",
+                                      "mustard",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/kurti/download-47-7.jpg"
+                     },
+                     {
+                         "name":  "Kurti 8",
+                         "slug":  "kurti-download-48-8",
+                         "category":  "Kurti",
+                         "description":  "Premium kurti designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1849,
+                         "oldPrice":  2349,
+                         "discountPercent":  21,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "Maroon",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "kurti",
+                                      "maroon",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/kurti/download-48-8.jpg"
+                     },
+                     {
+                         "name":  "Kurti 9",
+                         "slug":  "kurti-download-49-9",
+                         "category":  "Kurti",
+                         "description":  "Premium kurti designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1999,
+                         "oldPrice":  2499,
+                         "discountPercent":  20,
+                         "rating":  4.6,
+                         "reviewCount":  108,
+                         "color":  "Teal",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "kurti",
+                                      "teal",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/kurti/download-49-9.jpg"
+                     },
+                     {
+                         "name":  "Kurti 10",
+                         "slug":  "kurti-laila-pink-short-kurti-1-10",
+                         "category":  "Kurti",
+                         "description":  "Premium kurti designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2149,
+                         "oldPrice":  2649,
+                         "discountPercent":  19,
+                         "rating":  4.7,
+                         "reviewCount":  119,
+                         "color":  "Mustard",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "kurti",
+                                      "mustard",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/kurti/laila-pink-short-kurti-1-10.jpg"
+                     },
+                     {
+                         "name":  "Kurti 11",
+                         "slug":  "kurti-monochrome-magic-black-printed-kurti-with-flared-white-shararas-11",
+                         "category":  "Kurti",
+                         "description":  "Premium kurti designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2299,
+                         "oldPrice":  2799,
+                         "discountPercent":  18,
+                         "rating":  4.8,
+                         "reviewCount":  130,
+                         "color":  "Maroon",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "kurti",
+                                      "maroon",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/kurti/monochrome-magic-black-printed-kurti-with-flared-white-shararas-11.jpg"
+                     },
+                     {
+                         "name":  "Sarees 1",
+                         "slug":  "sarees-beautiful-floral-organza-saree-with-silk-top-for-women-frill-saree-indian-saree-fancy-saree-indian-outfit-saree-organza-sari-choli-blouse-2-1",
+                         "category":  "Sarees",
+                         "description":  "Premium sarees designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2999,
+                         "oldPrice":  3499,
+                         "discountPercent":  14,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "Red",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "sarees",
+                                      "red",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/sarees/beautiful-floral-organza-saree-with-silk-top-for-women-frill-saree-indian-saree-fancy-saree-indian-outfit-saree-organza-sari-choli-blouse-2-1.jpg"
+                     },
+                     {
+                         "name":  "Sarees 2",
+                         "slug":  "sarees-download-38-2",
+                         "category":  "Sarees",
+                         "description":  "Premium sarees designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  3149,
+                         "oldPrice":  3649,
+                         "discountPercent":  14,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "Gold",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "sarees",
+                                      "gold",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/sarees/download-38-2.jpg"
+                     },
+                     {
+                         "name":  "Sarees 3",
+                         "slug":  "sarees-download-39-3",
+                         "category":  "Sarees",
+                         "description":  "Premium sarees designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  3299,
+                         "oldPrice":  3799,
+                         "discountPercent":  13,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Purple",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "sarees",
+                                      "purple",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/sarees/download-39-3.jpg"
+                     },
+                     {
+                         "name":  "Sarees 4",
+                         "slug":  "sarees-download-40-4",
+                         "category":  "Sarees",
+                         "description":  "Premium sarees designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  3449,
+                         "oldPrice":  3949,
+                         "discountPercent":  13,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "Red",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "sarees",
+                                      "red",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/sarees/download-40-4.jpg"
+                     },
+                     {
+                         "name":  "Sarees 5",
+                         "slug":  "sarees-download-41-5",
+                         "category":  "Sarees",
+                         "description":  "Premium sarees designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  3599,
+                         "oldPrice":  4099,
+                         "discountPercent":  12,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "Gold",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "sarees",
+                                      "gold",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/sarees/download-41-5.jpg"
+                     },
+                     {
+                         "name":  "Sarees 6",
+                         "slug":  "sarees-gorgeous-saree-6",
+                         "category":  "Sarees",
+                         "description":  "Premium sarees designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  3749,
+                         "oldPrice":  4249,
+                         "discountPercent":  12,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Purple",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "sarees",
+                                      "purple",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/sarees/gorgeous-saree-6.jpg"
+                     },
+                     {
+                         "name":  "Sarees 7",
+                         "slug":  "sarees-ombr-lurex-caeluna-7",
+                         "category":  "Sarees",
+                         "description":  "Premium sarees designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2999,
+                         "oldPrice":  3499,
+                         "discountPercent":  14,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "Red",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "sarees",
+                                      "red",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/sarees/ombr-lurex-caeluna-7.jpg"
+                     },
+                     {
+                         "name":  "Sarees 8",
+                         "slug":  "sarees-sarees-8",
+                         "category":  "Sarees",
+                         "description":  "Premium sarees designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  3149,
+                         "oldPrice":  3649,
+                         "discountPercent":  14,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "Gold",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "sarees",
+                                      "gold",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/sarees/sarees-8.jpg"
+                     },
+                     {
+                         "name":  "Sarees 9",
+                         "slug":  "sarees-product-link-in-bio-9",
+                         "category":  "Sarees",
+                         "description":  "Premium sarees designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  3299,
+                         "oldPrice":  3799,
+                         "discountPercent":  13,
+                         "rating":  4.6,
+                         "reviewCount":  108,
+                         "color":  "Purple",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "sarees",
+                                      "purple",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/sarees/product-link-in-bio-9.jpg"
+                     },
+                     {
+                         "name":  "Shirts 1",
+                         "slug":  "shirts-17-casual-shirt-outfit-inspirations-for-every-season-1",
+                         "category":  "Shirts",
+                         "description":  "Premium shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1499,
+                         "oldPrice":  1999,
+                         "discountPercent":  25,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "White",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "shirts",
+                                      "white",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/shirts/17-casual-shirt-outfit-inspirations-for-every-season-1.jpg"
+                     },
+                     {
+                         "name":  "Shirts 2",
+                         "slug":  "shirts-download-18-2",
+                         "category":  "Shirts",
+                         "description":  "Premium shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1649,
+                         "oldPrice":  2149,
+                         "discountPercent":  23,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "Blue",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "shirts",
+                                      "blue",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/shirts/download-18-2.jpg"
+                     },
+                     {
+                         "name":  "Shirts 3",
+                         "slug":  "shirts-download-19-3",
+                         "category":  "Shirts",
+                         "description":  "Premium shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1799,
+                         "oldPrice":  2299,
+                         "discountPercent":  22,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Olive",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "shirts",
+                                      "olive",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/shirts/download-19-3.jpg"
+                     },
+                     {
+                         "name":  "Shirts 4",
+                         "slug":  "shirts-download-20-4",
+                         "category":  "Shirts",
+                         "description":  "Premium shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1949,
+                         "oldPrice":  2449,
+                         "discountPercent":  20,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "White",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "shirts",
+                                      "white",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/shirts/download-20-4.jpg"
+                     },
+                     {
+                         "name":  "Shirts 5",
+                         "slug":  "shirts-download-21-5",
+                         "category":  "Shirts",
+                         "description":  "Premium shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2099,
+                         "oldPrice":  2599,
+                         "discountPercent":  19,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "Blue",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "shirts",
+                                      "blue",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/shirts/download-21-5.jpg"
+                     },
+                     {
+                         "name":  "Shirts 6",
+                         "slug":  "shirts-download-22-6",
+                         "category":  "Shirts",
+                         "description":  "Premium shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2249,
+                         "oldPrice":  2749,
+                         "discountPercent":  18,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Olive",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "shirts",
+                                      "olive",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/shirts/download-22-6.jpg"
+                     },
+                     {
+                         "name":  "Shirts 7",
+                         "slug":  "shirts-matching-ralph-lauren-7",
+                         "category":  "Shirts",
+                         "description":  "Premium shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1499,
+                         "oldPrice":  1999,
+                         "discountPercent":  25,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "White",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "shirts",
+                                      "white",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/shirts/matching-ralph-lauren-7.jpg"
+                     },
+                     {
+                         "name":  "Shirts 8",
+                         "slug":  "shirts-men-s-style-outfits-every-guy-should-look-at-for-inspiration-8",
+                         "category":  "Shirts",
+                         "description":  "Premium shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1649,
+                         "oldPrice":  2149,
+                         "discountPercent":  23,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "Blue",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "shirts",
+                                      "blue",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/shirts/men-s-style-outfits-every-guy-should-look-at-for-inspiration-8.jpg"
+                     },
+                     {
+                         "name":  "Shirts 9",
+                         "slug":  "shirts-pink-shirt-9",
+                         "category":  "Shirts",
+                         "description":  "Premium shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1799,
+                         "oldPrice":  2299,
+                         "discountPercent":  22,
+                         "rating":  4.6,
+                         "reviewCount":  108,
+                         "color":  "Olive",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "shirts",
+                                      "olive",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/shirts/pink-shirt-9.jpg"
+                     },
+                     {
+                         "name":  "Shirts 10",
+                         "slug":  "shirts-premium-polo-t-shirts-for-men-women-casual-smart-everyday-styles-10",
+                         "category":  "Shirts",
+                         "description":  "Premium shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1949,
+                         "oldPrice":  2449,
+                         "discountPercent":  20,
+                         "rating":  4.7,
+                         "reviewCount":  119,
+                         "color":  "White",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "shirts",
+                                      "white",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/shirts/premium-polo-t-shirts-for-men-women-casual-smart-everyday-styles-10.jpg"
+                     },
+                     {
+                         "name":  "Shirts 11",
+                         "slug":  "shirts-red-checkered-flannel-outfit-11",
+                         "category":  "Shirts",
+                         "description":  "Premium shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2099,
+                         "oldPrice":  2599,
+                         "discountPercent":  19,
+                         "rating":  4.8,
+                         "reviewCount":  130,
+                         "color":  "Blue",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "shirts",
+                                      "blue",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/shirts/red-checkered-flannel-outfit-11.jpg"
+                     },
+                     {
+                         "name":  "Shoes 1",
+                         "slug":  "shoes-download-28-1",
+                         "category":  "Shoes",
+                         "description":  "Premium shoes designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1999,
+                         "oldPrice":  2499,
+                         "discountPercent":  20,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "White",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "shoes",
+                                      "white",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/shoes/download-28-1.jpg"
+                     },
+                     {
+                         "name":  "Shoes 2",
+                         "slug":  "shoes-download-29-2",
+                         "category":  "Shoes",
+                         "description":  "Premium shoes designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2149,
+                         "oldPrice":  2649,
+                         "discountPercent":  19,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "Black",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "shoes",
+                                      "black",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/shoes/download-29-2.jpg"
+                     },
+                     {
+                         "name":  "Shoes 3",
+                         "slug":  "shoes-fall-winter-new-round-toe-lace-up-patchwork-contrast-color-versatile-city-outdoor-casual-sneakers-for-women-3",
+                         "category":  "Shoes",
+                         "description":  "Premium shoes designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2299,
+                         "oldPrice":  2799,
+                         "discountPercent":  18,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Grey",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "shoes",
+                                      "grey",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/shoes/fall-winter-new-round-toe-lace-up-patchwork-contrast-color-versatile-city-outdoor-casual-sneakers-for-women-3.jpg"
+                     },
+                     {
+                         "name":  "Shoes 4",
+                         "slug":  "shoes-luxuri-se-oxford-schuhe-heidi-mode-schwarz-42-4",
+                         "category":  "Shoes",
+                         "description":  "Premium shoes designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2449,
+                         "oldPrice":  2949,
+                         "discountPercent":  17,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "White",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "shoes",
+                                      "white",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/shoes/luxuri-se-oxford-schuhe-heidi-mode-schwarz-42-4.jpg"
+                     },
+                     {
+                         "name":  "Shoes 5",
+                         "slug":  "shoes-marc-klassische-lederstiefel-f-r-herren-5",
+                         "category":  "Shoes",
+                         "description":  "Premium shoes designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2599,
+                         "oldPrice":  3099,
+                         "discountPercent":  16,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "Black",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "shoes",
+                                      "black",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/shoes/marc-klassische-lederstiefel-f-r-herren-5.jpg"
+                     },
+                     {
+                         "name":  "Shoes 6",
+                         "slug":  "shoes-menstylica-justusf-hansen-6",
+                         "category":  "Shoes",
+                         "description":  "Premium shoes designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2749,
+                         "oldPrice":  3249,
+                         "discountPercent":  15,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Grey",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "shoes",
+                                      "grey",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/shoes/menstylica-justusf-hansen-6.jpg"
+                     },
+                     {
+                         "name":  "Shoes 7",
+                         "slug":  "shoes-review-hot-men-039-s-brand-canvas-shoes-lightweight-sneakers-autumn-men-breathable-vulcanized-7",
+                         "category":  "Shoes",
+                         "description":  "Premium shoes designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1999,
+                         "oldPrice":  2499,
+                         "discountPercent":  20,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "White",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "shoes",
+                                      "white",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/shoes/review-hot-men-039-s-brand-canvas-shoes-lightweight-sneakers-autumn-men-breathable-vulcanized-7.jpg"
+                     },
+                     {
+                         "name":  "Shoes 8",
+                         "slug":  "shoes-spring-and-autumn-casual-sports-shoes-for-women-mesh-upper-design-with-platform-and-wedge-heel-suitable-for-petite-women-8",
+                         "category":  "Shoes",
+                         "description":  "Premium shoes designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2149,
+                         "oldPrice":  2649,
+                         "discountPercent":  19,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "Black",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "shoes",
+                                      "black",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/shoes/spring-and-autumn-casual-sports-shoes-for-women-mesh-upper-design-with-platform-and-wedge-heel-suitable-for-petite-women-8.jpg"
+                     },
+                     {
+                         "name":  "Shoes 9",
+                         "slug":  "shoes-women-heart-letter-graphic-lace-up-front-wedge-sneakers-sporty-white-non-slip-breathable-chunky-shoes-9",
+                         "category":  "Shoes",
+                         "description":  "Premium shoes designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2299,
+                         "oldPrice":  2799,
+                         "discountPercent":  18,
+                         "rating":  4.6,
+                         "reviewCount":  108,
+                         "color":  "Grey",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "shoes",
+                                      "grey",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/shoes/women-heart-letter-graphic-lace-up-front-wedge-sneakers-sporty-white-non-slip-breathable-chunky-shoes-9.jpg"
+                     },
+                     {
+                         "name":  "Shoes 10",
+                         "slug":  "shoes-women-s-low-top-casual-shoes-breathable-fabric-and-pvc-sole-comfortable-in-all-seasons-rich-colors-and-versatile-styles-padded-sole-daily-wear-fashionable-items-soft-lining-comfortable-shoes-urban-fashio-10",
+                         "category":  "Shoes",
+                         "description":  "Premium shoes designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2449,
+                         "oldPrice":  2949,
+                         "discountPercent":  17,
+                         "rating":  4.7,
+                         "reviewCount":  119,
+                         "color":  "White",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "shoes",
+                                      "white",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/shoes/shoes-low-top-casual-10.jpg"
+                     },
+                     {
+                         "name":  "Tops 1",
+                         "slug":  "tops-beautiful-top-1",
+                         "category":  "Tops",
+                         "description":  "Premium tops designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1399,
+                         "oldPrice":  1899,
+                         "discountPercent":  26,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "White",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "tops",
+                                      "white",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/tops/beautiful-top-1.jpg"
+                     },
+                     {
+                         "name":  "Tops 2",
+                         "slug":  "tops-dames-tops-corset-cropped-body-s-t-shirts-h-m-nl-2",
+                         "category":  "Tops",
+                         "description":  "Premium tops designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1549,
+                         "oldPrice":  2049,
+                         "discountPercent":  24,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "Lilac",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "tops",
+                                      "lilac",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/tops/dames-tops-corset-cropped-body-s-t-shirts-h-m-nl-2.jpg"
+                     },
+                     {
+                         "name":  "Tops 3",
+                         "slug":  "tops-download-36-3",
+                         "category":  "Tops",
+                         "description":  "Premium tops designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1699,
+                         "oldPrice":  2199,
+                         "discountPercent":  23,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Black",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "tops",
+                                      "black",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/tops/download-36-3.jpg"
+                     },
+                     {
+                         "name":  "Tops 4",
+                         "slug":  "tops-download-37-4",
+                         "category":  "Tops",
+                         "description":  "Premium tops designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1849,
+                         "oldPrice":  2349,
+                         "discountPercent":  21,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "White",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "tops",
+                                      "white",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/tops/download-37-4.jpg"
+                     },
+                     {
+                         "name":  "Tops 5",
+                         "slug":  "tops-floral-corset-top-with-puff-sleeves-vintage-aesthetic-outfit-inspiration-5",
+                         "category":  "Tops",
+                         "description":  "Premium tops designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1999,
+                         "oldPrice":  2499,
+                         "discountPercent":  20,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "Lilac",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "tops",
+                                      "lilac",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/tops/floral-corset-top-with-puff-sleeves-vintage-aesthetic-outfit-inspiration-5.jpg"
+                     },
+                     {
+                         "name":  "Tops 6",
+                         "slug":  "tops-save-and-follow-6",
+                         "category":  "Tops",
+                         "description":  "Premium tops designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  2149,
+                         "oldPrice":  2649,
+                         "discountPercent":  19,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Black",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "tops",
+                                      "black",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/tops/save-and-follow-6.jpg"
+                     },
+                     {
+                         "name":  "Tops 7",
+                         "slug":  "tops-welcome-to-shein-7",
+                         "category":  "Tops",
+                         "description":  "Premium tops designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1399,
+                         "oldPrice":  1899,
+                         "discountPercent":  26,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "White",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "tops",
+                                      "white",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/tops/welcome-to-shein-7.jpg"
+                     },
+                     {
+                         "name":  "Tops 8",
+                         "slug":  "tops-8",
+                         "category":  "Tops",
+                         "description":  "Premium tops designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1549,
+                         "oldPrice":  2049,
+                         "discountPercent":  24,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "Lilac",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "tops",
+                                      "lilac",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/tops/-8.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 1",
+                         "slug":  "t-shirts-4-pacote-de-camiseta-de-corte-liso-1",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  999,
+                         "oldPrice":  1499,
+                         "discountPercent":  33,
+                         "rating":  3.8,
+                         "reviewCount":  20,
+                         "color":  "Black",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "t-shirts",
+                                      "black",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/tshirts/4-pacote-de-camiseta-de-corte-liso-1.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 2",
+                         "slug":  "t-shirts-4pcs-plus-size-short-sleeve-t-shirts-2",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1149,
+                         "oldPrice":  1649,
+                         "discountPercent":  30,
+                         "rating":  3.9,
+                         "reviewCount":  31,
+                         "color":  "White",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "t-shirts",
+                                      "white",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/tshirts/4pcs-plus-size-short-sleeve-t-shirts-2.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 3",
+                         "slug":  "t-shirts-art-deco-3",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1299,
+                         "oldPrice":  1799,
+                         "discountPercent":  28,
+                         "rating":  4,
+                         "reviewCount":  42,
+                         "color":  "Navy",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "t-shirts",
+                                      "navy",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/tshirts/art-deco-3.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 4",
+                         "slug":  "t-shirts-bowknot-letter-print-women-s-round-neck-overside-short-sleeve-simple-top-summer-summer-women-outfit-graphic-tees-vacation-going-out-tops-women-short-sleeve-tops-summer-tops-short-sleeve-top-summer-women-clothes-4",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1449,
+                         "oldPrice":  1949,
+                         "discountPercent":  26,
+                         "rating":  4.1,
+                         "reviewCount":  53,
+                         "color":  "Black",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "t-shirts",
+                                      "black",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/tshirts/tshirts-bowknot-print-4.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 5",
+                         "slug":  "t-shirts-butterfly-letter-graphic-crop-tee-5",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1599,
+                         "oldPrice":  2099,
+                         "discountPercent":  24,
+                         "rating":  4.2,
+                         "reviewCount":  64,
+                         "color":  "White",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "t-shirts",
+                                      "white",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/tshirts/butterfly-letter-graphic-crop-tee-5.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 6",
+                         "slug":  "t-shirts-camiseta-oversized-voc-t-usando-errado-dicas-pra-vestir-com-estilo-at-na-academia-6",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1749,
+                         "oldPrice":  2249,
+                         "discountPercent":  22,
+                         "rating":  4.3,
+                         "reviewCount":  75,
+                         "color":  "Navy",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "t-shirts",
+                                      "navy",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/tshirts/camiseta-oversized-voc-t-usando-errado-dicas-pra-vestir-com-estilo-at-na-academia-6.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 7",
+                         "slug":  "t-shirts-download-17-7",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  999,
+                         "oldPrice":  1499,
+                         "discountPercent":  33,
+                         "rating":  4.4,
+                         "reviewCount":  86,
+                         "color":  "Black",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "t-shirts",
+                                      "black",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/tshirts/download-17-7.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 8",
+                         "slug":  "t-shirts-download-5-8",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1149,
+                         "oldPrice":  1649,
+                         "discountPercent":  30,
+                         "rating":  4.5,
+                         "reviewCount":  97,
+                         "color":  "White",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  10,
+                         "tags":  [
+                                      "t-shirts",
+                                      "white",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/tshirts/download-5-8.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 9",
+                         "slug":  "t-shirts-download-6-9",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1299,
+                         "oldPrice":  1799,
+                         "discountPercent":  28,
+                         "rating":  4.6,
+                         "reviewCount":  108,
+                         "color":  "Navy",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  13,
+                         "tags":  [
+                                      "t-shirts",
+                                      "navy",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/tshirts/download-6-9.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 10",
+                         "slug":  "t-shirts-embroidery-letter-pattern-drop-shoulder-tee-10",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1449,
+                         "oldPrice":  1949,
+                         "discountPercent":  26,
+                         "rating":  4.7,
+                         "reviewCount":  119,
+                         "color":  "Black",
+                         "pattern":  "Textured",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  16,
+                         "tags":  [
+                                      "t-shirts",
+                                      "black",
+                                      "textured"
+                                  ],
+                         "imagePath":  "/products/tshirts/embroidery-letter-pattern-drop-shoulder-tee-10.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 11",
+                         "slug":  "t-shirts-homens-s-lido-camiseta-ombro-ca-do-11",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1599,
+                         "oldPrice":  2099,
+                         "discountPercent":  24,
+                         "rating":  4.8,
+                         "reviewCount":  130,
+                         "color":  "White",
+                         "pattern":  "Solid",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  19,
+                         "tags":  [
+                                      "t-shirts",
+                                      "white",
+                                      "solid"
+                                  ],
+                         "imagePath":  "/products/tshirts/homens-s-lido-camiseta-ombro-ca-do-11.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 12",
+                         "slug":  "t-shirts-kit-4-camisetas-oversized-masculina-premium-100-algod-o-gola-grossa-lisa-basica-streetwear-12",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1749,
+                         "oldPrice":  2249,
+                         "discountPercent":  22,
+                         "rating":  4.9,
+                         "reviewCount":  21,
+                         "color":  "Navy",
+                         "pattern":  "Printed",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  22,
+                         "tags":  [
+                                      "t-shirts",
+                                      "navy",
+                                      "printed"
+                                  ],
+                         "imagePath":  "/products/tshirts/kit-4-camisetas-oversized-masculina-premium-100-algod-o-gola-grossa-lisa-basica-streetwear-12.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 13",
+                         "slug":  "t-shirts-men-s-fashion-13",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  999,
+                         "oldPrice":  1499,
+                         "discountPercent":  33,
+                         "rating":  3.8,
+                         "reviewCount":  32,
+                         "color":  "Black",
+                         "pattern":  "Striped",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  25,
+                         "tags":  [
+                                      "t-shirts",
+                                      "black",
+                                      "striped"
+                                  ],
+                         "imagePath":  "/products/tshirts/men-s-fashion-13.jpg"
+                     },
+                     {
+                         "name":  "T-Shirts 14",
+                         "slug":  "t-shirts-women-s-yellow-short-sleeve-t-shirt-lady-casual-tops-harajuku-streetwear-summer-print-drop-ship-14",
+                         "category":  "T-Shirts",
+                         "description":  "Premium t-shirts designed for modern style. Fabric quality, elegant finish, and all-day comfort.",
+                         "price":  1149,
+                         "oldPrice":  1649,
+                         "discountPercent":  30,
+                         "rating":  3.9,
+                         "reviewCount":  43,
+                         "color":  "White",
+                         "pattern":  "Floral",
+                         "sizes":  [
+                                       "S",
+                                       "M",
+                                       "L",
+                                       "XL"
+                                   ],
+                         "stock":  28,
+                         "tags":  [
+                                      "t-shirts",
+                                      "white",
+                                      "floral"
+                                  ],
+                         "imagePath":  "/products/tshirts/women-s-yellow-short-sleeve-t-shirt-lady-casual-tops-harajuku-streetwear-summer-print-drop-ship-14.jpg"
+                     }
+                 ]
+}

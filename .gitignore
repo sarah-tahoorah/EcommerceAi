@@ -5,9 +5,9 @@ dist
 __pycache__
 *.pyc
 *.log
-server/public/products
 dataset/raw
-dataset/processed
+dataset/processed/*
+!dataset/processed/catalog.json
 ai-service/uploads/*
 !ai-service/uploads/.gitkeep
 ai-service/models/*
